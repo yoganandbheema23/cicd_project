@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-03-20T18:32:18 IST" name="Suite" finished-at="2024-03-20T18:32:23 IST" duration-ms="4756">
+  <suite started-at="2024-03-21T14:18:35 IST" name="Default suite" finished-at="2024-03-21T14:18:41 IST" duration-ms="6204">
     <groups>
     </groups>
-    <test started-at="2024-03-20T18:32:18 IST" name="Test" finished-at="2024-03-20T18:32:23 IST" duration-ms="4756">
+    <test started-at="2024-03-21T14:18:35 IST" name="Default test" finished-at="2024-03-21T14:18:41 IST" duration-ms="6204">
       <class name="demo.democlass">
-        <test-method signature="greencart_Product()[pri:0, instance:demo.democlass@36916eb0]" started-at="2024-03-20T18:32:18 IST" name="greencart_Product" finished-at="2024-03-20T18:32:23 IST" duration-ms="4718" status="PASS">
+        <test-method signature="greencart_Product()[pri:0, instance:demo.democlass@2dc54ad4]" started-at="2024-03-21T14:18:35 IST" name="greencart_Product" finished-at="2024-03-21T14:18:41 IST" duration-ms="6170" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- greencart_Product -->
       </class> <!-- demo.democlass -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
